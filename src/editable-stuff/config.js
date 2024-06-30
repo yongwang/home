@@ -119,10 +119,11 @@ const getInTouch = {
   show: true,
   heading: 'Get In Touch',
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: 'yongwang@gmail.com',
+    "Wang to talk about Architecture, Cloud Transformation, or Software Development? Feel free to reach out. I'm always interested in discussing innovative ideas and projects.",
+  email: 'wangyong@outlook.com',
 };
 
+//TODO update experiences
 const experiences = {
   show: false,
   heading: 'Experiences',
